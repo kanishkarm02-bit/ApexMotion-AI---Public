@@ -1,0 +1,8 @@
+{
+  "name": "*ApexMotion AI*",
+  "description": "Elite sports movement analysis powered by AI. Analyze technique, detect errors, and improve performance with biomechanical feedback.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
